@@ -47,7 +47,7 @@ Este proyecto es un ejercicio básico que muestra el uso de JavaScript en una p�
 
 ## Autora
 
-Ailin Ayelen Miño
-Materia: Seminario de Actualización II
-Instituto Politécnico Formosa
-Carrera: Técnicatura Superior en Desarrollo de Software Multiplataforma
+#### Ailin Ayelen Miño
+#### Materia: Seminario de Actualización II
+#### Instituto Politécnico Formosa
+#### Carrera: Técnicatura Superior en Desarrollo de Software Multiplataforma
